@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NovaAppTheme" parent="Theme.AppCompat.Dialog">
+
+        <item name="android:colorBackground">@color/default_bg</item>
+
+
+        <item name="android:buttonStyle">@style/Nova.Widget.Button</item>
+    </style>
+</resources>

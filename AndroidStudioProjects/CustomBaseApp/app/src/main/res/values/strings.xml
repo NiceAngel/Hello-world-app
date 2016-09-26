@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FourButton</string>
+    <string name="str_Btn1">소설</string>
+    <string name="str_Btn2">갤러리</string>
+    <string name="str_Btn3">뮤직</string>
+    <string name="str_Btn4">네이버뮤직</string>
+    <string name="str_Btn5">끝내기</string>
+    <string name="button_text">버튼</string>
+
+</resources>
